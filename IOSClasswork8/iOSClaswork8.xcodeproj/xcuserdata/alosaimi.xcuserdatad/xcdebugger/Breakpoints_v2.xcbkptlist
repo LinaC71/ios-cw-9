@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "13F40058-4AC1-4649-B873-83BE8B85A174"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFEDDFE5-CC83-4B54-9677-7FF36E2CB517"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iOSClasswork8/ViewController/TableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TableViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "FFEDDFE5-CC83-4B54-9677-7FF36E2CB517 - 292388d8fa715efb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSClaswork8.TableViewCell.__deallocating_deinit"
+                  moduleName = "iOSClaswork8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alosaimi/Documents/linac71/ios-cw-9/IOSClasswork8/iOSClasswork8/ViewController/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "FFEDDFE5-CC83-4B54-9677-7FF36E2CB517 - 7b59d662664eecd7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSClaswork8.TableViewCell.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; iOSClaswork8.TableViewCell"
+                  moduleName = "iOSClaswork8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alosaimi/Documents/linac71/ios-cw-9/IOSClasswork8/iOSClasswork8/ViewController/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FFEDDFE5-CC83-4B54-9677-7FF36E2CB517 - 48ca0306a0ee0676"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSClaswork8.TableViewCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; iOSClaswork8.TableViewCell"
+                  moduleName = "iOSClaswork8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alosaimi/Documents/linac71/ios-cw-9/IOSClasswork8/iOSClasswork8/ViewController/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "181">
+               </Location>
+               <Location
+                  uuid = "FFEDDFE5-CC83-4B54-9677-7FF36E2CB517 - 52ad16aa63de86f3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSClaswork8.TableViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iOSClaswork8.TableViewCell&gt;"
+                  moduleName = "iOSClaswork8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alosaimi/Documents/linac71/ios-cw-9/IOSClasswork8/iOSClasswork8/ViewController/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "FFEDDFE5-CC83-4B54-9677-7FF36E2CB517 - 578f4e52e8d5e759"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iOSClaswork8.TableViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;iOSClaswork8.TableViewCell&gt;"
+                  moduleName = "iOSClaswork8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alosaimi/Documents/linac71/ios-cw-9/IOSClasswork8/iOSClasswork8/ViewController/TableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "119">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
